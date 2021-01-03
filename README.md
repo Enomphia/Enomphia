@@ -1,2 +1,1 @@
-## NOOB
-### Hi there 👋
+i dont usually post stuff to GitHub
