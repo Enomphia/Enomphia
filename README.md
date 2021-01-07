@@ -1,3 +1,2 @@
-```
-my discord is Enomphia#0001
-```
+## 📲 Discord > **Enomphia#0001**
+![](778406828816072736.gif)
