@@ -2,7 +2,12 @@
 ![](778406828816072736.gif)
 
 ## ✨ Currently working on
-Nothing. Trying to be motivated to do anything.
+Nothing.
+
+## 🏆 Programming languages I know
+- Lua
+- Python
+- Node.js
 
 ## 💻 My GitHub Stats 📈
 <p align="center" >
