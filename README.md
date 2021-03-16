@@ -1,8 +1,4 @@
-## 📲 Discord > **Enomphia#0001**
 ![](778406828816072736.gif)
-
-## ✨ Currently working on
-Nothing.
 
 ## 🏆 Programming languages I know
 - Lua
