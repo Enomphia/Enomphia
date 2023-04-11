@@ -4,6 +4,7 @@
 - Lua
 - Python
 - Node.js
+- C#
 
 ## 💻 My GitHub Stats 📈
 <p align="center" >
